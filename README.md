@@ -7,7 +7,7 @@ Note: Don't use this to test your brainfuck code and expect it to work properly.
 
 Known Problems:
 
-1. I doesn't know how to ignore loops that aren't ever suppost to start.
+1. It doesn't know how to ignore loops that aren't ever suppost to start.
 ```brainfuck
 [+]
 ```
